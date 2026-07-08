@@ -1,0 +1,13 @@
+torch>=2.2
+transformers>=4.42
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+tqdm
+matplotlib
+seaborn
+fastapi
+uvicorn
+python-multipart
